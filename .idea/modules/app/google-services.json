@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200954873734",
+    "firebase_url": "https://fir-videostream-f7cd4.firebaseio.com",
+    "project_id": "fir-videostream-f7cd4",
+    "storage_bucket": "fir-videostream-f7cd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200954873734:android:dc8e4aca6face9e4fc8e07",
+        "android_client_info": {
+          "package_name": "com.angik.firebasevideostream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200954873734-7fl2vefl26078km9cdhpvblme7jst09o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angik.firebasevideostream",
+            "certificate_hash": "7c1b3c0664812b5efa184f59e515fb18d30a1097"
+          }
+        },
+        {
+          "client_id": "200954873734-3klinpdhckgblp5u2bfd0s40599pf3u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3xTfrC-Z8mPUqndgA4OurA8DxL-X3Shw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200954873734-3klinpdhckgblp5u2bfd0s40599pf3u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
